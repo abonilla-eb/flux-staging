@@ -1,3 +1,4 @@
 image:
   tag: 2.9.9
-
+ingress:
+  host: staging.devops-toolkit.172.20.85.210.xip.io
