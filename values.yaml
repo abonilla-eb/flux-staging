@@ -1,4 +1,0 @@
-image:
-  tag: 2.9.9
-ingress:
-  host: staging.devops-toolkit.abce7e6c89d2a47f5b60d67269305f9a-eb96cf2c3d17820c.elb.us-west-2.amazonaws.com
